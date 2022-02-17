@@ -4,6 +4,9 @@
 I'm a Computer science Student, I like to test every new or old technologie that's I can find.
 I love all the stuff around Computer vision and AI.
 
+## Find me on web :
+<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+
 
 
 <!--
