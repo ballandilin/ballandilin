@@ -5,7 +5,7 @@ I'm a Computer science Student, I like to test every new or old technologie that
 I love all the stuff around Computer vision and AI.
 
 ## Find me on web :
-<a href="https://www.instagram.com/nicolasbbenoit/?hl=fr" target="blank"><img align="center" src="https://github.com/ballandilin/ballandilin/blob/main/icons/instagram.svg" height="100" /></a>
+<a href="https://www.instagram.com/nicolasbbenoit/?hl=fr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" height="100" /></a>
 <a href="https://www.linkedin.com/in/nicolas-benoit-216816222/" target="blank"><img align="center" src="https://github.com/ballandilin/ballandilin/blob/main/icons/linkedin.svg" height="100" /></a>
 
 ## langages :
@@ -13,7 +13,7 @@ I love all the stuff around Computer vision and AI.
   <img align="center" src="https://github.com/ballandilin/ballandilin/blob/main/icons/python.svg" height="50" />
   <img align="center" src="https://github.com/ballandilin/ballandilin/blob/main/icons/java.svg" height="50" />
   <img align="center" src="https://github.com/ballandilin/ballandilin/blob/main/icons/nodedotjs.svg" height="50" />
-  <img align="center" src="https://github.com/ballandilin/ballandilin/blob/main/icons/javascript.svg" height="50" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" height="50" />
   <img align="center" src="https://github.com/ballandilin/ballandilin/blob/main/icons/html5.svg" height="50" />
   <img align="center" src="https://github.com/ballandilin/ballandilin/blob/main/icons/css3.svg" height="50" />
 </div>
