@@ -10,12 +10,12 @@ I love all the stuff around Computer vision and AI.
 
 ## langages :
 <div>
-  <img align="center" src="https://github.com/ballandilin/ballandilin/blob/main/icons/python.svg" height="50" />
-  <img align="center" src="https://github.com/ballandilin/ballandilin/blob/main/icons/java.svg" height="50" />
-  <img align="center" src="https://github.com/ballandilin/ballandilin/blob/main/icons/nodedotjs.svg" height="50" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="50" />
+  <img align="center" src="https://www.svgrepo.com/download/303388/java-4-logo.svg" height="50" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="50" />
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" height="50" />
-  <img align="center" src="https://github.com/ballandilin/ballandilin/blob/main/icons/html5.svg" height="50" />
-  <img align="center" src="https://github.com/ballandilin/ballandilin/blob/main/icons/css3.svg" height="50" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="50" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="50" />
 </div>
 
 
