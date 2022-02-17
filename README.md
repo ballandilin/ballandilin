@@ -11,7 +11,7 @@ I love all the stuff around Computer vision and AI.
 ## langages :
 <div>
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="50" />
-  <img align="center" src="https://www.pikpng.com/pngl/m/204-2047555_datei-java-logo-svg-java-logo-svg-clipart.png" height="50" />
+  <img align="center" src="https://github.com/ballandilin/ballandilin/blob/main/icons/java.svg" height="50" />
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="50" />
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" height="50" />
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="50" />
