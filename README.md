@@ -9,6 +9,7 @@ I love all the stuff around Computer vision and AI.
 <a href="https://www.linkedin.com/in/nicolas-benoit-216816222/" target="blank"><img align="center" src="https://github.com/ballandilin/ballandilin/blob/main/icons/linkedin.svg" height="100" /></a>
 
 ## langages :
+![GitHub Light](https://github.com/ballandilin/ballandilin/blob/main/icons/python.svg)
 <img align="center" src="https://github.com/ballandilin/ballandilin/blob/main/icons/python.svg" height="50" />
 <img align="center" src="https://github.com/ballandilin/ballandilin/blob/main/icons/java.svg" height="50" />
 <img align="center" src="https://github.com/ballandilin/ballandilin/blob/main/icons/nodedotjs.svg" height="50" />
