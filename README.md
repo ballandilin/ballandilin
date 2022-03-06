@@ -5,7 +5,7 @@ I'm a Computer science Student, I like to test every new or old technologie that
 I love all the stuff around Computer vision and AI.
 
 ## Find me on web :
-<a href="https://www.instagram.com/nicolasbbenoit/?hl=fr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" height="100" /></a>
+<a href="https://www.instagram.com/nicolas_mbe/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" height="100" /></a>
 <a href="https://www.linkedin.com/in/nicolas-benoit-216816222/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" height="100" /></a>
 
 [![Profile badge](https://www.codewars.com/users/ballandilin/badges/large)](https://www.codewars.com/users/ballandilin)
