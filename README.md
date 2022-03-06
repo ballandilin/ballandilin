@@ -8,6 +8,9 @@ I love all the stuff around Computer vision and AI.
 <a href="https://www.instagram.com/nicolasbbenoit/?hl=fr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" height="100" /></a>
 <a href="https://www.linkedin.com/in/nicolas-benoit-216816222/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" height="100" /></a>
 
+[![Profile badge](https://www.codewars.com/users/ballandilin/badges/large)](https://www.codewars.com/users/ballandilin)
+
+
 ## langages :
 <div>
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="50" />
@@ -19,18 +22,3 @@ I love all the stuff around Computer vision and AI.
 </div>
 
 
-
-<!--
-**ballandilin/ballandilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
