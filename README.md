@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Nicolas AKA Ballandilin 💪</h1>
 <h3 align="center">I'm a Computer science Student, I like to test every new or old technologie that's I can find. I love all the stuff around Computer vision and AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ballandilin&label=Profile%20views&color=9f2427&style=plastic" alt="ballandilin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ballandilin&label=Profile%20views&color=9f2427&style=flat" alt="ballandilin" /> </p>
 
 - 🔭 I’m currently working on **a website that recreate a level from hotline miami**
 
