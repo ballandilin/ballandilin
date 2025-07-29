@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Nicolas AKA Ballandilin 💪</h1>
-<h3 align="center">I'm a Computer science Student, I like to test every new or old technologie that's I can find. I love all the stuff around Computer vision and AI</h3>
+<h3 align="center">I'm a developper, I like to test every new or old technologie that's I can find. I love all the stuff around Computer vision and AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ballandilin&label=Profile%20views&color=9f2427&style=flat" alt="ballandilin" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nicolas.benoit6@gmail.com**
 
-- 📄 Know about my experiences [I already got a degree in IT](I already got a degree in IT)
+- 📄 Know about my experiences **I already got a degree in IT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
