@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ballandilin&label=Profile%20views&color=9f2427&style=flat" alt="ballandilin" /> </p>
 
-- 📫 How to reach me <a href="www.nicolasbenoit.fr">www.nicolasbenoit.fr</a>
+- 📫 How to reach me <a href="https://www.nicolasbenoit.fr/">www.nicolasbenoit.fr</a>
 
 - 📄 Know about my experiences **I already got a degree in IT**
 
