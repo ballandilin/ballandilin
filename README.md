@@ -1,16 +1,21 @@
-<h1 align="center">Hi there 👋, I'm Nicolas AKA Ballandilin 💪</h1>
-<h3 align="center">I'm a developper, I like to test every new or old technologie that's I can find. I love all the stuff around Computer vision and AI</h3>
+# Nicolas Benoit
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ballandilin&label=Profile%20views&color=9f2427&style=flat" alt="ballandilin" /> </p>
+Full-stack developer at [Infofil](https://www.infofil.fr/), based in Burgundy, France.
 
-- 📫 How to reach me <a href="https://www.nicolasbenoit.fr/">www.nicolasbenoit.fr</a>
+Python, TypeScript/React and C#/.NET pay the bills. Outside of work I gravitate
+toward lower-level things: writing tools from scratch in Rust and Go to understand
+how they actually work, and running my own self-hosted infrastructure.
 
-- 📄 Know about my experiences **I already got a degree in IT**
+## Currently building
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ballandilin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ballandilin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nicolas-benoit-216816222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolas-benoit-216816222/" height="30" width="40" /></a>
-<a href="https://kaggle.com/nicolasbenoit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nicolasbenoit" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nicolas_mbe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nicolas_mbe/" height="30" width="40" /></a>
-</p>
+- **[pyresume](https://github.com/ballandilin/pyresume)** — tailors a resume and
+  generates a matching cover letter for a job posting, using an LLM.
+  Python CLI, with a Textual TUI in progress.
+- **[time_stack](https://github.com/ballandilin/time_stack)** — a stack of
+  independent stopwatch and pomodoro timers. Flutter.
+- **[portscan-tui](https://github.com/ballandilin/portscan-tui)** — async port scanner with a terminal UI, in Rust.
+
+## Elsewhere
+
+- [nicolasbenoit.fr](https://www.nicolasbenoit.fr/)
+- [LinkedIn](https://www.linkedin.com/in/nicolas-benoit-216816222/)
