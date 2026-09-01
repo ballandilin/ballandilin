@@ -13,7 +13,7 @@ how they actually work, and running my own self-hosted infrastructure.
   Python CLI, with a Textual TUI in progress.
 - **[time_stack](https://github.com/ballandilin/time_stack)** — a stack of
   independent stopwatch and pomodoro timers. Flutter.
-- **[portscan-tui](https://github.com/ballandilin/portscan-tui)** — async port scanner with a terminal UI, in Rust.
+- **[portscan-tui](https://github.com/ballandilin/portscan-tui)** — async port scanner with a terminal UI, in Rust (WIP).
 
 ## Elsewhere
 
