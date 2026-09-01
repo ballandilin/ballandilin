@@ -2,7 +2,7 @@
 
 Full-stack developer at [Infofil](https://www.infofil.fr/), based in Burgundy, France.
 
-Python, TypeScript/React and C#/.NET pay the bills. Outside of work I gravitate
+Python, TypeScript/React and C#/.NET. Outside of work I gravitate
 toward lower-level things: writing tools from scratch in Rust and Go to understand
 how they actually work, and running my own self-hosted infrastructure.
 
